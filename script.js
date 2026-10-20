@@ -1,10 +1,10 @@
 const CONFIG = {
-  recipient:    "Bùi Ngọc Nhã Tú",     // <-- change to the person's name, e.g. "Mom" or "Linh"
+  recipient:    "Đoàn Phương An",     // <-- change to the person's name, e.g. "Mom" or "Linh"
 
   scene1Label:  "A little greeting",
   scene1Prefix: "Sending to",
 
-  scene2Line1:  "On the occasion of Vietnamese Women's Day",
+  scene2Line1:  "Wishing you to always stay radiant, happy, successful, and deeply loved every day. May your beautiful smile brighten every moment of your life!",
   scene2Date:   "October 20th",
 
   // Scene 3 message. Wrap words in *asterisks* to highlight them in cursive.
